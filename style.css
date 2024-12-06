@@ -1,0 +1,125 @@
+/* Custom CSS */
+body {
+	font-family: Arial, sans-serif;
+	color: #fff;
+	background-color: #222;
+  }
+  
+  .navbar-transparente {
+	background-color: rgba(0, 0, 0, 0.8);
+  }
+  
+  .navbar-nav .nav-link {
+	color: #fff;
+	margin-right: 15px;
+  }
+  
+  .navbar-nav .nav-link:hover {
+	color: #1db954;
+  }
+  
+  .navbar-nav .divisor {
+	width: 1px;
+	height: 25px;
+	background-color: #fff;
+	margin: 0 15px;
+  }
+  
+  .carousel-item h1 {
+	font-size: 2.5rem;
+	margin-bottom: 20px;
+	margin-top: 100px;
+  }
+  
+  .carousel-control-prev,
+  .carousel-control-next {
+	color: #fff;
+  }
+  
+  .carousel-control-prev:hover,
+  .carousel-control-next:hover {
+	color: #1db954;
+  }
+  
+  .btn-custom {
+	border: 2px solid #fff;
+	border-radius: 20px;
+	padding: 10px 30px;
+	margin-right: 10px;
+  }
+  
+  .btn-roxo {
+	background-color: #1db954;
+	color: #fff;
+  }
+  
+  .btn-branco {
+	background-color: #fff;
+	color: #222;
+  }
+  
+  .caixa {
+	padding: 50px 0;
+	background-color: #333;
+  }
+  
+  .caixa h2,
+  .caixa h3 {
+	color: #1db954;
+  }
+  
+  .caixa p {
+	color: #bbb;
+  }
+  
+  .albuns img {
+	margin-bottom: 20px;
+  }
+  
+  .rotacionar img {
+	margin-top: 20px;
+  }
+  
+  footer {
+	background-color: #111;
+	padding: 40px 0;
+	color: #bbb;
+  }
+  
+  footer h4 {
+	color: #fff;
+	margin-bottom: 20px;
+  }
+  
+  footer ul {
+	list-style-type: none;
+	padding: 0;
+  }
+  
+  footer ul li {
+	margin-bottom: 10px;
+  }
+  
+  footer ul li a {
+	color: #bbb;
+	text-decoration: none;
+  }
+  
+  footer ul li a:hover {
+	color: #1db954;
+  }
+  
+  footer .social-media {
+	list-style-type: none;
+	padding: 0;
+	display: flex;
+  }
+  
+  footer .social-media li {
+	margin-right: 20px;
+  }
+  
+  footer .social-media li a img {
+	width: 24px;
+  }
+  
